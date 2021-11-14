@@ -1,0 +1,11 @@
+h3
+{
+    font: size 25px;
+}
+.btn-success:hover
+{
+    background-color: rgb(135, 234, 238);
+}
+canvas {
+border:2px solid blacki;
+}
